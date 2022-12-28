@@ -3,6 +3,7 @@
 
 ### Quick info about me:
 - 🎸 I’m currently working at CI&T as a back-end developer
+- 🎓 I’m a student of the Computer Science course at the Federal University of Alfenas - Unifal
 - 🌱 I’m constantly learning from my colleagues new technologies from the tech world
 
 <div>
