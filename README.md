@@ -28,7 +28,7 @@
     <h3> Technologies I use as a hobby: </h3>
     <img align="center" alt="jp-arduino" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
     <img align="center" alt="jp-flutter" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-    <img align="center" alt="jp-unity" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
+<!--     <img align="center" alt="jp-unity" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"> -->
     <img align="center" alt="jp-blender" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg">
   </div>
 
