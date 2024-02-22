@@ -13,29 +13,41 @@
 
 <div style="text-align: center">
   <div style="display: inline_block"><br>
-    <h3> Technologies I usually use: </h3>
-    <img align="center" alt="jp-java" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-    <img align="center" alt="jp-spring" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-    <img align="center" alt="jp-c" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-    <img align="center" alt="jp-c#" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="jp-cpp" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="jp-mysql" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+    <h3> Technologies and languages I usually use: </h3>
+    <img align="center" alt="jp-ubunto" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
     <img align="center" alt="jp-git" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-    <img align="center" alt="jp-ubunto" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
+    <img align="center" alt="jp-github" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+    <img align="center" alt="jp-bitbucket" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg">
+  </div>
+
+  <div style="display: inline_block"><br>
+    <img align="center" alt="jp-java" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+    <img align="center" alt="jp-intellij" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
+    <img align="center" alt="jp-spring" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+    <img align="center" alt="jp-gradle" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg">
+    <img align="center" alt="jp-maven" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg">
+    <img align="center" alt="jp-swagger" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg">
+    <img align="center" alt="jp-sonarqube" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original.svg">
+    <img align="center" alt="jp-aws" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  </div>
+
+  <div style="display: inline_block"><br>
+    <img align="center" alt="jp-js" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="jp-vscode" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+    <img align="center" alt="jp-react" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   </div>
 
   <div style="display: inline_block"><br>
     <h3> Technologies I use as a hobby: </h3>
     <img align="center" alt="jp-arduino" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
-    <img align="center" alt="jp-flutter" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-<!--     <img align="center" alt="jp-unity" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"> -->
-    <img align="center" alt="jp-blender" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg">
+    <img align="center" alt="jp-figma" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+    <img align="center" alt="jp-androidstudio" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
   </div>
 
   <div style="display: inline_block"><br>
-    <h3> Technologies I'm studying: </h3>
-    <img align="center" alt="jp-js" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+    <h3> Technologies I also use and study: </h3>
+    <img align="center" alt="jp-c" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+    <img align="center" alt="jp-c#" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="jp-ts" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="jp-react" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   </div>
 </div>
