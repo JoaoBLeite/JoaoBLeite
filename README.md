@@ -3,7 +3,7 @@
 
 ### Quick info about me:
 - 🎓 I’m a student of the Computer Science course at the Federal University of Alfenas - Unifal
-- 🎸 I worked at CI&T as a back-end developer for two years on an international project
+<!-- - 🎸 I worked at CI&T as a back-end developer for two years on an international project -->
 
 <div>
   <a href="https://github.com/JoaoBLeite">
