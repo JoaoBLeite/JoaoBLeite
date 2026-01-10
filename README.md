@@ -41,6 +41,13 @@ My expertise lies in backend development and defining **software architectures**
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Scrum](https://img.shields.io/badge/scrum-%230575E6.svg?style=for-the-badge&logo=scrum&logoColor=white)
 
+## 🚀 Current Project: Vello <img width="30" height="30" alt="vello" src="https://github.com/user-attachments/assets/5147bf2f-5f7e-4d73-9a56-605ae287b443" align="center"/>
+
+I'm currently building **Vello**, a SaaS platform designed to automate event invitations and ticket management.
+* **The Goal:** Streamlining the guest experience from invitation to entry.
+* **Tech Insight:** Applying **Clean Architecture** and **Microservices** to handle high-demand ticket generation and real-time validation.
+* **Status:** In active development.
+
 ## 📫 Get in touch!
 
 <div align="center">
