@@ -1,53 +1,53 @@
-# Hello visitor! I'm João Barbosa Leite
-## Be welcome to my modest profile
+# Hello there! <img width="30" height="30" alt="bluelightsaber" src="https://github.com/user-attachments/assets/222f5882-e135-457c-a545-14ffb0ba4df5" /> I'm João Barbosa Leite
 
-### Quick info about me:
-- 🎓 I’m a student of the Computer Science course at the Federal University of Alfenas - Unifal
-<!-- - 🎸 I worked at CI&T as a back-end developer for two years on an international project -->
-
-<div>
-  <a href="https://github.com/JoaoBLeite">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaobleite&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobleite&layout=compact&langs_count=16&theme=dark" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=30a8db&width=500&lines=Computer+Scientists+%26+Backend+developer;Java+%7C+Spring+Boot+%7C+AWS" alt="Typing SVG" />
+  </a>
 </div>
 
-<div style="text-align: center">
-  <div style="display: inline_block"><br>
-    <h3> Technologies and languages I usually use: </h3>
-    <img align="center" alt="jp-ubunto" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
-    <img align="center" alt="jp-git" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-    <img align="center" alt="jp-github" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-    <img align="center" alt="jp-bitbucket" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg">
-  </div>
+## 🧑‍💻 About me:
+I'm a middle Java & Spring Boot developer and a Computer Science graduate.
 
-  <div style="display: inline_block"><br>
-    <img align="center" alt="jp-java" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-    <img align="center" alt="jp-intellij" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
-    <img align="center" alt="jp-spring" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-    <img align="center" alt="jp-gradle" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg">
-    <img align="center" alt="jp-maven" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg">
-    <img align="center" alt="jp-swagger" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg">
-    <img align="center" alt="jp-sonarqube" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original.svg">
-    <img align="center" alt="jp-aws" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  </div>
+My expertise lies in backend development and defining **software architectures**. With 5 years of experience, I've learned that technology is a tool for solving complex problems—and it's precisely in these challenges that I deliver my best. I love exchanging ideas on how to build better, cleaner, and more resilient software.
 
-  <div style="display: inline_block"><br>
-    <img align="center" alt="jp-js" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="jp-vscode" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-    <img align="center" alt="jp-react" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  </div>
+## 🛠️ Tech Stack
 
-  <div style="display: inline_block"><br>
-    <h3> Technologies I use as a hobby: </h3>
-    <img align="center" alt="jp-arduino" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
-    <img align="center" alt="jp-figma" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-    <img align="center" alt="jp-androidstudio" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
-  </div>
+### • Languages
 
-  <div style="display: inline_block"><br>
-    <h3> Technologies I also use and study: </h3>
-    <img align="center" alt="jp-c" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-    <img align="center" alt="jp-c#" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="jp-ts" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
-  </div>
+<div style="display: inline_block">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+</div>
+
+### • Backend & Architecture
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Monolith](https://img.shields.io/badge/Monolithic_Arch-6366F1?style=for-the-badge&logo=docker&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=docker&logoColor=white)
+
+### • Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-%23db6930?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+### • DevOps, Automation & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Scrum](https://img.shields.io/badge/scrum-%230575E6.svg?style=for-the-badge&logo=scrum&logoColor=white)
+
+## 📫 Get in touch!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/joaopedro-softwareengineer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/JoaoBLeite" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
 </div>
