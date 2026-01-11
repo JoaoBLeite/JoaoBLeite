@@ -7,7 +7,7 @@
 </div>
 
 ## 🧑‍💻 About me:
-I'm a middle-level Java & Spring Boot developer and a Computer Science graduate.
+I'm a mid-level Java & Spring Boot developer and a Computer Science graduate.
 
 My expertise lies in backend development and defining **software architectures**. With 5 years of experience, I've learned that technology is a tool for solving complex problems—and it's precisely in these challenges that I deliver my best. I love exchanging ideas on how to build better, cleaner, and more resilient software.
 
